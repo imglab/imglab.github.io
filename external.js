@@ -1,3 +1,4 @@
+/* from http://codepen.io/mikel301292/pen/dMYRYZ */
 $(window).load(function(){
 	var height = window.innerHeight,
   x= 0, y= height/2,
